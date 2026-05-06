@@ -10,8 +10,8 @@ It allows you to initialize projects, manage dependencies, install libraries fro
 
 project/  
 │── wrapper  
-&nbsp;&nbsp;&nbsp;&nbsp;│── JavaPackageManager.jar  
-&nbsp;&nbsp;&nbsp;&nbsp;│── JPMUpdater.jar  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── JavaPackageManager.jar  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── JPMUpdater.jar  
 │── package.json  
 │── jpm.bat  
 │── jpm.sh  
