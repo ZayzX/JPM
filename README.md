@@ -9,9 +9,12 @@ It allows you to initialize projects, manage dependencies, install libraries fro
 # 📂 Project Structure
 
 project/  
-│── jpm.java  
+│── wrapper  
+&nbsp;&nbsp;&nbsp;&nbsp;│── JavaPackageManager.jar  
+&nbsp;&nbsp;&nbsp;&nbsp;│── JPMUpdater.jar  
 │── package.json  
-│── config.json  
+│── jpm.bat  
+│── jpm.sh  
 │── libs/
 
 ---
